@@ -8,4 +8,4 @@ Covered in this notebook:
 
 
 Next thing to do:
-Use nn based t*o embedding,to modelling
+Use nn based to embedding,to modelling
